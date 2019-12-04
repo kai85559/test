@@ -4,9 +4,11 @@
 #include "pch.h"
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    cout << "Hello World!\n";
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
